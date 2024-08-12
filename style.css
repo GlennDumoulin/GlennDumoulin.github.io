@@ -1,12 +1,11 @@
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    overflow-x: hidden;
-	background-color: #373737;
-	color: #c9c9c9;
+	padding: 0;
+	margin: 0;
+	overflow-x: hidden;
+	background-color: #353535;
+	color: #cdcdcd;
 }
 
 .title {
-	color: #e4e4e4;
+	color: #efefef;
 }
