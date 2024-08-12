@@ -1,9 +1,16 @@
 * {
 	padding: 0;
 	margin: 0;
+}
+
+body {
 	overflow-x: hidden;
 	background-color: #353535;
 	color: #cdcdcd;
+}
+
+h1:first-of-type {
+	display: none;
 }
 
 .title {
