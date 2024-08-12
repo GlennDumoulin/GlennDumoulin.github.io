@@ -13,6 +13,6 @@ h1:first-of-type {
 	display: none;
 }
 
-.title, b, strong {
+h1, h2, h3, h4, b, strong {
 	color: #efefef;
 }
