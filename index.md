@@ -1,5 +1,5 @@
 <link href="./style.css" rel="stylesheet"/>
-<script type="module" src="https://md-block.verou.me/md-block.js"/>
+<script type="module" src="https://md-block.verou.me/md-block.js"></script>
 
 <div class="nav-bar">
   <md-block>
