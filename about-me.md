@@ -1,8 +1,11 @@
 <link href="./style.css" rel="stylesheet"/>
+<script type="module" src="https://md-block.verou.me/md-block.js"></script>
 
-<div class="nav-bar" markdown="1">
-- <a href="./index.md" markdown="1">## Projects</a>
-- <a href="./about-me.md" markdown="1" class="active">## About Me</a>
+<div class="nav-bar">
+  <md-block>
+    - <a href="./index.md"><md-block>## Projects</md-block></a>
+    - <a href="./about-me.md" class="active"><md-block>## About Me</md-block></a>
+  </md-block>
 </div>
 
 # Glenn Dumoulin - Portfolio
