@@ -1,3 +1,10 @@
+:root {
+	--dark-grey: #353535;
+	--light-grey: #cfcfcf;
+	--white: #f2f2f2;
+	--blue: #84b3f4;
+}
+
 * {
 	padding: 0;
 	margin: 0;
@@ -5,8 +12,8 @@
 
 body {
 	overflow-x: hidden;
-	background-color: #353535;
-	color: #cdcdcd;
+	background-color: var(--dark-grey);
+	color: var(--light-grey);
 }
 
 h1:first-of-type {
@@ -14,5 +21,24 @@ h1:first-of-type {
 }
 
 h1, h2, h3, h4, b, strong {
-	color: #efefef;
+	color: var(--white);
+}
+
+a {
+	text-decoration: none;
+	color: var(--blue);
+}
+
+.nav-bar {
+	border-top: solid 2px var(--white);
+	border-bottom: solid 2px var(--white);
+	display: flex;
+	justify-content: center;
+}
+
+.nav-bar a {
+	margin: 20px;
+	display: inline-block;
+	text-decoration: none;
+	color: var(--light-grey);
 }
