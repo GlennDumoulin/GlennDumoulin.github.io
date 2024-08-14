@@ -32,13 +32,34 @@ a {
 .nav-bar {
 	border-top: solid 2px var(--white);
 	border-bottom: solid 2px var(--white);
+	margin-bottom: 50px;
+}
+
+.nav-bar ul {
 	display: flex;
 	justify-content: center;
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+.nav-bar ul li {
+	padding: 20px 30px;
+	margin: 0;
 }
 
 .nav-bar a {
-	margin: 20px;
-	display: inline-block;
 	text-decoration: none;
+	font-size: 1.5em;
+	font-weight: 600;
 	color: var(--light-grey);
+	transition: all 0.3s ease-in-out;
+}
+
+.nav-bar a:hover, .nav-bar .active {
+	color: var(--white);
+}
+
+.nav-bar a:hover {
+	text-decoration: underline;
 }
