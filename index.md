@@ -3,8 +3,8 @@
 
 <div class="nav-bar">
   <md-block>
-    - <a href="./index.md" class="active"><md-block>## Projects</md-block></a>
-    - <a href="./about-me.md"><md-block>## About Me</md-block></a>
+    - <a href="./" class="active">Projects</a>
+    - <a href="./about-me.html">About Me</a>
   </md-block>
 </div>
 
