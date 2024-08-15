@@ -1,3 +1,4 @@
+/* Variables */
 :root {
 	--dark-grey: #353535;
 	--light-grey: #cfcfcf;
@@ -5,15 +6,25 @@
 	--blue: #84b3f4;
 }
 
+/* Base Styles */
 * {
 	padding: 0;
 	margin: 0;
+	box-sizing: border-box;
 }
 
 body {
 	overflow-x: hidden;
 	background-color: var(--dark-grey);
 	color: var(--light-grey);
+}
+
+.markdown-body {
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
 }
 
 h1:first-of-type {
@@ -29,10 +40,11 @@ a {
 	color: var(--blue);
 }
 
+/* NavBar Styles */
 .nav-bar {
 	border-top: solid 2px var(--white);
 	border-bottom: solid 2px var(--white);
-	margin-bottom: 50px;
+	margin: 30px 0;
 }
 
 .nav-bar ul {
@@ -62,4 +74,21 @@ a {
 
 .nav-bar a:hover {
 	text-decoration: underline;
+}
+
+/* Footer Styles */
+footer {
+	width: 100%;
+	padding: 20px 0;
+	margin-top: auto;
+	border-top: solid 2px var(--white);
+}
+
+*:has(+ footer) {
+	margin-bottom: 50px;
+}
+
+footer p {
+	text-align: center;
+	margin: 0 !important;
 }

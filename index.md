@@ -14,3 +14,9 @@
 
 - [x] Create .md file
 - [ ] Add content
+
+<footer>
+  <md-block>
+    ©2024 by Glenn Dumoulin. Made with GitHub Pages
+  </md-block>
+</footer>

@@ -13,3 +13,9 @@
 ### Gameplay Programmer
 
 Hi there 👋, my name is **Glenn** and I aspire to be a **gameplay developer**.
+
+<footer>
+  <md-block>
+    ©2024 by Glenn Dumoulin. Made with GitHub Pages
+  </md-block>
+</footer>
