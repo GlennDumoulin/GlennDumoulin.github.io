@@ -10,16 +10,17 @@
 
 <div class="title">
   <md-block>
-  
-  # Glenn Dumoulin
-  
-  <h3>Gameplay Programmer</h3>
-  
+    # Glenn Dumoulin
+    <h3>Gameplay Programmer</h3>
   </md-block>
 </div>
 
-- [x] Create .md file
-- [ ] Add content
+<div class="content">
+  <md-block>
+    - [x] Create .md file
+    - [ ] Add content
+  </md-block>
+</div>
 
 <footer>
   <md-block>

@@ -1,4 +1,4 @@
-<link href="./style.css" rel="stylesheet"/>
+<link href="../style.css" rel="stylesheet"/>
 <script type="module" src="https://md-block.verou.me/md-block.js"></script>
 
 <div class="nav-bar">
@@ -10,15 +10,16 @@
 
 <div class="title">
   <md-block>
-  
-  # Glenn Dumoulin
-  
-  <h3>Gameplay Programmer</h3>
-  
+    # Glenn Dumoulin
+    <h3>Gameplay Programmer</h3>
   </md-block>
 </div>
 
-Hi there 👋, my name is **Glenn** and I aspire to be a **gameplay developer**.
+<div class="content">
+  <md-block>
+    Hi there 👋, my name is **Glenn** and I aspire to be a **gameplay developer**.
+  </md-block>
+</div>
 
 <footer>
   <md-block>
