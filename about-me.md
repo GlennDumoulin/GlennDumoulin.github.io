@@ -8,9 +8,15 @@
   </md-block>
 </div>
 
-# Glenn Dumoulin - Portfolio
-
-### Gameplay Programmer
+<div class="title">
+  <md-block>
+  
+  # Glenn Dumoulin
+  
+  <h3>Gameplay Programmer</h3>
+  
+  </md-block>
+</div>
 
 Hi there 👋, my name is **Glenn** and I aspire to be a **gameplay developer**.
 

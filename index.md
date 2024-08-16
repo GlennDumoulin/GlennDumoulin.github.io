@@ -8,9 +8,15 @@
   </md-block>
 </div>
 
-# Glenn Dumoulin - Portfolio
-
-### Gameplay Programmer
+<div class="title">
+  <md-block>
+  
+  # Glenn Dumoulin
+  
+  <h3>Gameplay Programmer</h3>
+  
+  </md-block>
+</div>
 
 - [x] Create .md file
 - [ ] Add content

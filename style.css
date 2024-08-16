@@ -27,7 +27,7 @@ body {
 	flex-direction: column;
 }
 
-h1:first-of-type {
+.markdown-body>*:first-child {
 	display: none;
 }
 
@@ -44,7 +44,7 @@ a {
 .nav-bar {
 	border-top: solid 2px var(--white);
 	border-bottom: solid 2px var(--white);
-	margin: 30px 0;
+	margin: 30px 0 20px;
 }
 
 .nav-bar ul {
@@ -56,7 +56,7 @@ a {
 }
 
 .nav-bar ul li {
-	padding: 20px 30px;
+	padding: 10px 20px;
 	margin: 0;
 }
 
@@ -91,4 +91,22 @@ footer {
 footer p {
 	text-align: center;
 	margin: 0 !important;
+}
+
+/* Title Styles */
+.title {
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+.title h1 {
+	margin: 0;
+	padding-bottom: 5px;
+	border: none;
+	font-weight: 700;
+	font-size: 2.5em;
+}
+
+.title h3 {
+	margin: 0;
 }
