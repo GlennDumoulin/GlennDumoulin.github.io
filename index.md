@@ -4,7 +4,7 @@
 <div class="nav-bar">
   <md-block>
     - <a href="#" class="active">Projects</a>
-    - <a href="./about-me.html">About Me</a>
+    - <a href="./About/">About Me</a>
   </md-block>
 </div>
 

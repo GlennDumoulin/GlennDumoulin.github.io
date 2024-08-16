@@ -3,7 +3,7 @@
 
 <div class="nav-bar">
   <md-block>
-    - <a href="./">Projects</a>
+    - <a href="../">Projects</a>
     - <a href="#" class="active">About Me</a>
   </md-block>
 </div>
