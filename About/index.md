@@ -22,22 +22,19 @@
 </div>
 
 <div class="content">
-  <md-block>
-    <div>
-      <md-block>
+  <div>
+    <md-block>
 
 # About Me
 
-## My name is **Glenn Dumoulin**
+## My name is Glenn Dumoulin
 
 I was born and raised in Belgium and I'm a game developer focussing mostly on **gameplay programming**.
 I am currently studying Game Development in Digital Arts and Entertainment (DAE) at the Howest University of Applied Sciences.
-      </md-block>
-    </div>
-    
-![A profile picture of Glenn Dumoulin!](../Assets/profile_picture.jpg "Glenn Dumoulin")
 
-  </md-block>
+    </md-block>
+  </div>
+  <img src="../Assets/profile_picture.jpg" alt="A profile picture of Glenn Dumoulin!" title="Glenn Dumoulin">
 </div>
 
 <footer>

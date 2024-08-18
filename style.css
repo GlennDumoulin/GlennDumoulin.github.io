@@ -34,6 +34,11 @@ a {
 	color: var(--blue);
 }
 
+img {
+	object-fit: cover;
+	border-radius: 7px;
+}
+
 .content {
 	padding: 30px 0;
 	margin-bottom: 50px;

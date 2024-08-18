@@ -1,15 +1,19 @@
 @import url(../variables.css);
 
-.content {
+.content > md-block {
     display: flex;
     flex-direction: row;
     align-items: center;
 }
 
-.content div {
-    margin: 30px auto;
+.content > md-block > div {
+    margin: 30px;
 }
 
 .content img {
     width: 30%;
+}
+
+.content h2 {
+    border: none;
 }
