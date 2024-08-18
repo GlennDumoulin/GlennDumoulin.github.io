@@ -1,0 +1,15 @@
+@import url(../variables.css);
+
+.content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.content div {
+    margin: 30px auto;
+}
+
+.content img {
+    width: 30%;
+}
