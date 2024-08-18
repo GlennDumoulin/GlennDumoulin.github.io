@@ -22,7 +22,7 @@
 </div>
 
 <div class="content">
-  <div>
+  <div class="info">
     <md-block>
 
 # About Me
