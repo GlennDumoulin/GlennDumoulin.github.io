@@ -29,6 +29,10 @@ h1, h2, h3, h4, b, strong {
 	color: var(--white);
 }
 
+h3 a.anchorjs-link, h4 a.anchorjs-link {
+	display: none !important;
+}
+
 a {
 	text-decoration: none;
 	color: var(--blue);
