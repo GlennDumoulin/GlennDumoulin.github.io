@@ -15,9 +15,8 @@
 
 # Glenn Dumoulin
 
-<h3>Gameplay Programmer</h3>
-
   </md-block>
+  <h3>Gameplay Programmer</h3>
 </div>
 
 <div class="content">

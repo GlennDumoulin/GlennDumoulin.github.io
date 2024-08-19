@@ -16,15 +16,15 @@
 
 # Glenn Dumoulin
 
-<h3>Gameplay Programmer</h3>
-
   </md-block>
+  <h3>Gameplay Programmer</h3>
 </div>
 
 <div class="content">
-  <div class="main">
-    <div class="info">
-      <md-block>
+  <div class="wrapper">
+    <section class="general">
+      <div class="info">
+        <md-block>
 
 # About Me
 
@@ -34,10 +34,32 @@ I was born and raised in Belgium and I'm a **game developer** focussing mostly o
 
 I am currently studying Game Development in Digital Arts and Entertainment (DAE) at the Howest University of Applied Sciences.
 
-      </md-block>
-    </div>
-    <img src="../Assets/profile_picture.jpg" alt="A profile picture of Glenn Dumoulin!" title="Glenn Dumoulin">
+        </md-block>
+      </div>
+      <img src="../Assets/profile_picture.jpg" alt="A profile picture of Glenn Dumoulin!" title="Glenn Dumoulin">
+    </section>
+    <section class="edu-hob">
+      <div class="info">
+        <md-block>
+
+## My Education
+
+## My Hobbies
+
+        </md-block>
+      </div>
+      <img src="../Assets/profile_picture.jpg" alt="A profile picture of Glenn Dumoulin!" title="Glenn Dumoulin">
+    </section>
   </div>
+  <section class="platforms">
+    <md-block>
+
+## Other Platforms
+
+    </md-block>
+    <div class="icons">
+    </div>
+  </section>
 </div>
 
 <footer>

@@ -1,22 +1,48 @@
 @import url(../variables.css);
 
-.main {
-    display: flex;
-    flex-direction: row;
-    padding: 30px 30px 30px 0;
+.content {
+    padding: 0;
+    background-color: var(--black);
+    border-radius: var(--soft-radius);
+}
+
+.content .wrapper {
     background-color: var(--darker-grey);
     border-radius: var(--soft-radius);
 }
 
-.main .info {
-    margin: auto 50px;
+.content section {
+    display: flex;
+    padding: 30px;
 }
 
-.main img {
+.content section .info {
+    margin: auto 50px;
+    width: 100%;
+}
+
+.content section img {
     width: 30%;
     height: 350px;
 }
 
-.main h2 {
+section.general {
+    flex-direction: row;
+    padding-left: 0 !important;
+    background-color: var(--black);
+    border-radius: var(--soft-radius);
+}
+
+section.general h2 {
     border: none;
+}
+
+section.edu-hob {
+    flex-direction: row-reverse;
+    padding-right: 0 !important;
+}
+
+section.platforms {
+    flex-direction: column;
+    align-items: center;
 }
