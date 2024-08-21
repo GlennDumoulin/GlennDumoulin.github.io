@@ -23,7 +23,7 @@
 
 .content section img {
     width: 30%;
-    height: 350px;
+    height: auto;
 }
 
 section.general {
@@ -39,7 +39,17 @@ section.general h2 {
 
 section.edu-hob {
     flex-direction: row-reverse;
-    padding-right: 0 !important;
+}
+
+section.edu-hob .info {
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+section.edu-hob .info div {
+    width: 47%;
 }
 
 section.platforms {
