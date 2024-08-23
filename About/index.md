@@ -32,7 +32,7 @@
 
 I was born and raised in Belgium and I'm a **game developer** focussing mostly on **gameplay programming**.
 
-...
+Games have always been a part of my life and I feel blessed to even have the opportunity to be a part of this industry! I found myself thinking about possible game mechanics, features and even possible solutions to issues I had when playing games or when encountering bugs. This was already happening way before I discovered <a href="https://www.digitalartsandentertainment.be/" target="_blank">Digital Arts and Entertainment</a>, but now I think about it in a more professional and critical way.
 
         </md-block>
       </div>
@@ -64,15 +64,15 @@ I like to spend my time doing things like:
 - Playing games & board games
 - Spending time with friends & family
 
-And I should also mention programming, but I'd rather do some of the other things mentioned above and keep programming _mainly_ for professional use.
+And I should also mention programming, but I would rather do some of the other things mentioned above and keep programming _mainly_ for professional use.
 
-In the past I've had quite a few other hobbies such as:
+I have also done a few other hobbies in the past such as:
 
 - Judo
 - Youth theater
 - Djembé
 
-Some of these I did longer than others but I always enjoyed all of them as long as I still did them.
+Some of these I did longer than others but I have always enjoyed them for as long as I did them.
 
           </md-block>
         </div>
@@ -86,6 +86,12 @@ Some of these I did longer than others but I always enjoyed all of them as long 
 
     </md-block>
     <div class="icons">
+      <a href="#" target="_blank">
+        <img src="../Assets/profile_picture.jpg" alt="A profile picture of Glenn Dumoulin!" title="Glenn Dumoulin">
+      </a>
+      <a href="#" target="_blank">
+        <img src="../Assets/profile_picture.jpg" alt="A profile picture of Glenn Dumoulin!" title="Glenn Dumoulin">
+      </a>
     </div>
   </section>
 </div>

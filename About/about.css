@@ -48,11 +48,38 @@ section.edu-hob .info {
     justify-content: space-between;
 }
 
-section.edu-hob .info div {
-    width: 47%;
+section.edu-hob .info .edu {
+    width: 52%;
+}
+
+section.edu-hob .info .hob {
+    width: 40%;
 }
 
 section.platforms {
     flex-direction: column;
     align-items: center;
+}
+
+section.platforms .icons {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+section.platforms .icons a {
+    margin: 10px;
+}
+
+section.platforms .icons img {
+    width: 100px;
+    height: 100px;
+    border: 2px solid var(--black);
+    transition: var(--default-transition);
+}
+
+.icons a:hover img {
+    border: 2px solid;
 }
