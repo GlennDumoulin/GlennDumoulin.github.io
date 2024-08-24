@@ -25,7 +25,7 @@
     <img src="../Assets/profile_picture.jpg" alt="A profile picture of Glenn Dumoulin!" title="Glenn Dumoulin">
     <md-block>
 
-### _Project Name_
+## _Project Name_
 
 #### Made in _Engine_
 
