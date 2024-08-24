@@ -1,0 +1,22 @@
+@import url(../variables.css);
+
+.content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.content .project {
+    width: 30%;
+    height: auto;
+    margin: 15px;
+    border: 2px solid var(--darker-grey);
+    border-radius: var(--soft-radius);
+    transition: var(--default-transition);
+}
+
+.project img {
+    height: 200px;
+    border-radius: var(--soft-radius) var(--soft-radius) 0 0;
+}

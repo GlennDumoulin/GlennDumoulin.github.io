@@ -1,4 +1,5 @@
 <link href="./style.css" rel="stylesheet"/>
+<link href="./projects.css" rel="stylesheet"/>
 <script type="module" src="https://md-block.verou.me/md-block.js"></script>
 
 <div class="nav-bar">
@@ -20,14 +21,16 @@
 </div>
 
 <div class="content">
-  <md-block>
+  <a href="#" class="project">
+    <img src="../Assets/profile_picture.jpg" alt="A profile picture of Glenn Dumoulin!" title="Glenn Dumoulin">
+    <md-block>
 
-# My Projects
+### _Project Name_
 
-- [x] Create .md file
-- [ ] Add content
+#### Made in _Engine_
 
-  </md-block>
+    </md-block>
+  </a>
 </div>
 
 <footer>
