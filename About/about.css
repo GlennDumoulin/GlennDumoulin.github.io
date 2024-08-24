@@ -66,18 +66,19 @@ section.platforms .icons {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-    margin-top: 10px;
 }
 
 section.platforms .icons a {
-    margin: 10px;
+    margin: 10px 25px;
 }
 
 section.platforms .icons img {
-    width: 100px;
+    width: auto;
     height: 100px;
+    padding: 5px;
     border: 2px solid var(--black);
     transition: var(--default-transition);
+    background: none;
 }
 
 .icons a:hover img {
