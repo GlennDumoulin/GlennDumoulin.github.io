@@ -86,11 +86,17 @@ Some of these I did longer than others but I have always enjoyed them for as lon
 
     </md-block>
     <div class="icons">
-      <a href="#" target="_blank">
-        <img src="../Assets/profile_picture.jpg" alt="A profile picture of Glenn Dumoulin!" title="Glenn Dumoulin">
+      <a href="https://www.linkedin.com/in/glenn-dumoulin-82b60b193/" target="_blank">
+        <img src="../Assets/Logos/LI-In-Bug-white.png" alt="LinkedIn brand logo!" title="LinkedIn">
       </a>
-      <a href="#" target="_blank">
-        <img src="../Assets/profile_picture.jpg" alt="A profile picture of Glenn Dumoulin!" title="Glenn Dumoulin">
+      <a href="https://github.com/GlennDumoulin" target="_blank">
+        <img src="../Assets/Logos/github-mark-white.svg" alt="GitHub brand logo!" title="GitHub">
+      </a>
+      <a href="https://hazedos.itch.io/" target="_blank">
+        <img src="../Assets/Logos/itchio-textless-white.svg" alt="itch.io brand logo!" title="itch.io">
+      </a>
+      <a href="https://www.therookies.co/u/Hazedos" target="_blank">
+        <img src="../Assets/Logos/TheRookies-black-square.png" alt="The Rookies brand logo!" title="The Rookies">
       </a>
     </div>
   </section>
