@@ -21,7 +21,7 @@
 </div>
 
 <div class="content">
-  <a href="#" class="project">
+  <a href="./Projects/DieOrNot/" class="project">
     <img src="./Assets/Projects/DieOrNot/Group20_DieOrNot_LG_01.jpg" alt="Die or Not game logo!" title="Die or Not">
     <md-block>
 
@@ -31,7 +31,7 @@
 
     </md-block>
   </a>
-  <a href="#" class="project">
+  <a href="./Projects/1302/" class="project">
     <img src="./Assets/Projects/1302/01_1302_01.jpg" alt="1302 game snapshot!" title="1302 (mobile)">
     <md-block>
 
@@ -41,7 +41,7 @@
 
     </md-block>
   </a>
-  <a href="#" class="project">
+  <a href="./Projects/HogRaider/" class="project">
     <img src="./Assets/Projects/HogRaider/2DAE15_Dumoulin_Glenn_Unity_Screenshot01.png" alt="HogRaider game snapshot!" title="HogRaider">
     <md-block>
 
@@ -51,7 +51,7 @@
 
     </md-block>
   </a>
-  <a href="#" class="project">
+  <a href="./Projects/TheLostPresents/" class="project">
     <img src="./Assets/Projects/TheLostPresents/TLP_Screenshot01.png" alt="The Lost Presents game snapshot!" title="The Lost Presents">
     <md-block>
 
