@@ -1,0 +1,40 @@
+@import url(../variables.css);
+
+.content .project-title {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.project-title span:first-of-type {
+    margin-right: 10px;
+}
+
+.content .intro {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 0;
+}
+
+.intro md-block {
+    width: 45%;
+}
+
+.intro img {
+    width: 50%;
+}
+
+.content .details {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.details div {
+    width: 45%;
+}
