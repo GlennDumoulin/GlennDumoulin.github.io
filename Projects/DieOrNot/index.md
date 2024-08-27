@@ -56,8 +56,38 @@
       </md-block>
     </div>
   </div>
-  <div class="platforms"></div>
-  <div class="gallery"></div>
+  <div class="platforms">
+    <md-block>
+
+## More about this project
+
+    </md-block>
+    <div class="icons">
+      <a href="https://delion-arken.itch.io/don" target="_blank">
+        <img src="../../Assets/Logos/itchio-textless-white.svg" alt="itch.io brand logo!" title="itch.io">
+      </a>
+      <a href="https://www.therookies.co/entries/24303" target="_blank">
+        <img src="../../Assets/Logos/TheRookies-black-square.png" alt="The Rookies brand logo!" title="The Rookies">
+      </a>
+    </div>
+  </div>
+  <div class="gallery">
+    <md-block>
+
+## Gallery
+
+    </md-block>
+    <div class="images">
+      <img src="../../Assets/Projects/DieOrNot/Group20_DieOrNot_01.jpg" alt="Die or Not snapshot!">
+      <img src="../../Assets/Projects/DieOrNot/Group20_DieOrNot_02.jpg" alt="Die or Not snapshot!">
+      <img src="../../Assets/Projects/DieOrNot/Group20_DieOrNot_03.jpg" alt="Die or Not snapshot!">
+      <img src="../../Assets/Projects/DieOrNot/Group20_DieOrNot_04.jpg" alt="Die or Not snapshot!">
+      <img src="../../Assets/Projects/DieOrNot/Group20_DieOrNot_05.jpg" alt="Die or Not snapshot!">
+      <img src="../../Assets/Projects/DieOrNot/Group20_DieOrNot_06.jpg" alt="Die or Not snapshot!">
+      <img src="../../Assets/Projects/DieOrNot/Group20_DieOrNot_07.jpg" alt="Die or Not snapshot!">
+      <img src="../../Assets/Projects/DieOrNot/Group20_DieOrNot_08.jpg" alt="Die or Not snapshot!">
+    </div>
+  </div>
 </div>
 
 <footer>

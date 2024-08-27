@@ -38,3 +38,48 @@
 .details div {
     width: 45%;
 }
+
+.content .platforms {
+    text-align: center;
+}
+
+.platforms .icons {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.platforms .icons a {
+    margin: 10px 25px;
+}
+
+.platforms .icons img {
+    width: auto;
+    height: 100px;
+    padding: 5px;
+    border: 2px solid var(--black);
+    transition: var(--default-transition);
+    background: none;
+}
+
+.icons a:hover img {
+    border: 2px solid;
+}
+
+.content .gallery {
+    text-align: center;
+}
+
+.gallery .images {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.gallery .images img {
+    width: 45%;
+    height: auto;
+    margin: 10px;
+}
