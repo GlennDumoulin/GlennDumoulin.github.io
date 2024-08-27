@@ -85,7 +85,6 @@
       <img src="../../Assets/Projects/DieOrNot/Group20_DieOrNot_05.jpg" alt="Die or Not snapshot!">
       <img src="../../Assets/Projects/DieOrNot/Group20_DieOrNot_06.jpg" alt="Die or Not snapshot!">
       <img src="../../Assets/Projects/DieOrNot/Group20_DieOrNot_07.jpg" alt="Die or Not snapshot!">
-      <img src="../../Assets/Projects/DieOrNot/Group20_DieOrNot_08.jpg" alt="Die or Not snapshot!">
     </div>
   </div>
 </div>
