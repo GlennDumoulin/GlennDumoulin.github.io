@@ -32,10 +32,10 @@
     </md-block>
   </a>
   <a href="./Projects/1302/" class="project">
-    <img src="./Assets/Projects/1302/01_1302_01.jpg" alt="1302 game snapshot!" title="1302 (mobile)">
+    <img src="./Assets/Projects/1302/01_1302_01.jpg" alt="1302 game snapshot!" title="1302 (Mobile)">
     <md-block>
 
-## 1302 (mobile)
+## 1302 (Mobile)
 
 #### Made in Unity
 

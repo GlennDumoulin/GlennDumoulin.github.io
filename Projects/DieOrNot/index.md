@@ -28,7 +28,7 @@
 ### Die or Not is a local 2D PvP game, in which two to four (2-4) players play rounds on the same screen until someone reaches the target score.
 
     </md-block>
-    <img src="../../Assets/Projects/DieOrNot/Group20_DieOrNot_LG_01.jpg" alt="Die or Not game logo!" title="Die or Not">
+    <iframe src="https://www.youtube.com/embed/FmWqW4ShhmQ?si=xXQiFtqldwFVnMUF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
   <div class="details">
     <div>
@@ -49,7 +49,7 @@
 
 ## What I learned from this project
 
-- Working with Unreal C++
+- Working with C++ in UE5
 - Working in a group for a longer period of time
 - Going through the process of creating a vertical slice of a game
 
@@ -78,6 +78,7 @@
 
     </md-block>
     <div class="images">
+      <img src="../../Assets/Projects/DieOrNot/Group20_DieOrNot_LG_01.jpg" alt="Die or Not game logo!">
       <img src="../../Assets/Projects/DieOrNot/Group20_DieOrNot_01.jpg" alt="Die or Not snapshot!">
       <img src="../../Assets/Projects/DieOrNot/Group20_DieOrNot_02.jpg" alt="Die or Not snapshot!">
       <img src="../../Assets/Projects/DieOrNot/Group20_DieOrNot_03.jpg" alt="Die or Not snapshot!">

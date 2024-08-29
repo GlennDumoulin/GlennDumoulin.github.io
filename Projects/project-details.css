@@ -28,6 +28,12 @@
     width: 50%;
 }
 
+.intro iframe {
+    width: 50%;
+    height: 275px;
+    border-radius: var(--soft-radius);
+}
+
 .content .details {
     display: flex;
     flex-direction: row;
