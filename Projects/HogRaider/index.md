@@ -27,7 +27,7 @@
 
 ### HogRaider is a third-person combat game. You control your hog to move around a village and you can throw a stick to destroy all buildings with your main goal being to destroy the Town Hall. Before each game you can select 2 skills, one for the yourself and one for the hog. Carefull though, the villagers don't really like it that you destroy their home.
 
-### _DISCLAIMER: The designs are copied from the popular mobile game, Clash of Clans by Supercell. I do not own any of these designs nor am I selling or distibuting this game._
+#### _DISCLAIMER: The designs are copied from the popular mobile game, Clash of Clans by Supercell. I do not own any of these designs nor am I selling or distibuting this game._
 
     </md-block>
     <iframe src="https://www.youtube.com/embed/Epbfi7S1Apk?si=zzccKGTptc3XYMzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
