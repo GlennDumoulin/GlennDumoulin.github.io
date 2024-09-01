@@ -86,7 +86,7 @@ Some of these I did longer than others but I have always enjoyed them for as lon
 
     </md-block>
     <div class="icons">
-      <a href="https://www.linkedin.com/in/glenn-dumoulin-82b60b193/" target="_blank">
+      <a href="https://www.linkedin.com/in/glenn-dumoulin/" target="_blank">
         <img src="../Assets/Logos/LI-In-Bug-white.png" alt="LinkedIn brand logo!" title="LinkedIn">
       </a>
       <a href="https://github.com/GlennDumoulin" target="_blank">
