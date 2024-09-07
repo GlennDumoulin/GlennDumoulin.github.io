@@ -7,7 +7,7 @@
     border-radius: var(--soft-radius);
 }
 
-@media (max-width: 375px) {
+@media (max-width: 576px) {
     .content iframe {
         height: 200px;
     }

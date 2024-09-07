@@ -48,6 +48,12 @@ img {
 	margin-bottom: 50px;
 }
 
+@media (max-width: 576px) {
+    .content {
+        margin-bottom: 20px;
+    }
+}
+
 /* NavBar Styles */
 .nav-bar {
 	border-top: solid 2px var(--white);
@@ -84,6 +90,12 @@ img {
 	text-decoration: underline;
 }
 
+@media (max-width: 576px) {
+    .nav-bar a {
+		font-size: 1.2em;
+	}
+}
+
 /* Footer Styles */
 footer {
 	width: 100%;
@@ -95,6 +107,12 @@ footer {
 footer p {
 	text-align: center;
 	margin: 0 !important;
+}
+
+@media (max-width: 576px) {
+    footer p {
+		font-size: 0.8em;
+	}
 }
 
 /* Title Styles */
