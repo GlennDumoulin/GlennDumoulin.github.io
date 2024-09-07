@@ -48,12 +48,6 @@ img {
 	margin-bottom: 50px;
 }
 
-@media (max-width: 576px) {
-    .content {
-        margin-bottom: 20px;
-    }
-}
-
 /* NavBar Styles */
 .nav-bar {
 	border-top: solid 2px var(--white);
@@ -70,7 +64,7 @@ img {
 }
 
 .nav-bar ul li {
-	padding: 10px 20px;
+	padding: 10px 3vw;
 	margin: 0;
 }
 
