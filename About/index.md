@@ -63,6 +63,7 @@ I like to spend my time doing things like:
 
 - Dancing
 - Playing games & board games
+- Acting
 - Spending time with friends & family
 
 And I should also mention programming, but I would rather do some of the other things mentioned above and keep programming _mainly_ for professional use.

@@ -38,10 +38,6 @@ section.general h2 {
     border: none;
 }
 
-section.edu-hob {
-    flex-direction: row-reverse;
-}
-
 section.edu-hob .info {
     margin: 0;
     display: flex;
@@ -84,4 +80,31 @@ section.platforms .icons img {
 
 .icons a:hover img {
     border: 2px solid;
+}
+
+@media (max-width: 576px) {
+    .content section .info {
+        margin: 0;
+    }
+
+    .content section img {
+        width: 100%;
+    }
+
+    section.general {
+        padding-left: 30px;
+    }
+
+    section.edu-hob .info .edu,
+    section.edu-hob .info .hob {
+        width: 100%;
+    }
+
+    section.platforms .icons a {
+        margin: 5px 15px;
+    }
+
+    section.platforms .icons img {
+        height: 80px;
+    }
 }
