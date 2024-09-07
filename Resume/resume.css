@@ -6,3 +6,9 @@
     border: 2px solid var(--blue);
     border-radius: var(--soft-radius);
 }
+
+@media (max-width: 375px) {
+    .content iframe {
+        height: 200px;
+    }
+}
