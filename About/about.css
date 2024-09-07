@@ -92,7 +92,8 @@ section.platforms .icons img {
     }
 
     section.general {
-        padding-left: 30px;
+        flex-direction: column;
+        padding-left: 30px !important;
     }
 
     section.edu-hob .info .edu,
