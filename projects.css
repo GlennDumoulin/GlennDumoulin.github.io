@@ -8,9 +8,9 @@
 }
 
 .content .project {
-    width: 30%;
+    width: 300px;
     height: auto;
-    margin: 15px;
+    margin: 1vw;
     border: 2px solid var(--darker-grey);
     border-radius: var(--soft-radius);
     background: var(--grey);
@@ -40,4 +40,19 @@
 
 .project md-block > * {
     margin-top: 10px;
+}
+
+@media (max-width: 576px) {
+    .content .project {
+        width: 80%;
+        margin: 10px 0;
+    }
+
+    .content .project:first-of-type {
+        margin-top: 0 !important;
+    }
+
+    .content .project:last-of-type {
+        margin-bottom: 0 !important;
+    }
 }
