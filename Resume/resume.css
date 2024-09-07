@@ -1,0 +1,8 @@
+@import url(../variables.css);
+
+.content iframe {
+    width: 100%;
+    height: 1200px;
+    border: 2px solid var(--blue);
+    border-radius: var(--soft-radius);
+}
