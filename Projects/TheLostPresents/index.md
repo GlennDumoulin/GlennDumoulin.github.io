@@ -7,6 +7,7 @@
 
 - <a href="../../">Projects</a>
 - <a href="../../About/">About Me</a>
+- <a href="../../Resume/">Resume</a>
 
   </md-block>
 </div>
