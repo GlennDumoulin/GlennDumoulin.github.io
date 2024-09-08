@@ -66,7 +66,7 @@
     </md-block>
     <div class="icons">
       <a href="https://github.com/GlennDumoulin/1302" target="_blank">
-        <img src="../Assets/Logos/github-mark-white.svg" alt="GitHub brand logo!" title="GitHub">
+        <img src="../../Assets/Logos/github-mark-white.svg" alt="GitHub brand logo!" title="GitHub">
       </a>
       <a href="https://www.therookies.co/entries/30142" target="_blank">
         <img src="../../Assets/Logos/TheRookies-black-square.png" alt="The Rookies brand logo!" title="The Rookies">
