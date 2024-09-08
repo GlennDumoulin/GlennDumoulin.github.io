@@ -59,7 +59,18 @@ For the "variable" keyword I went with giving the player two skills, one for the
       </md-block>
     </div>
   </div>
-  <div class="platforms"></div>
+  <div class="platforms">
+    <md-block>
+
+## More about this project
+
+    </md-block>
+    <div class="icons">
+      <a href="https://github.com/GlennDumoulin/HogRaider" target="_blank">
+        <img src="../Assets/Logos/github-mark-white.svg" alt="GitHub brand logo!" title="GitHub">
+      </a>
+    </div>
+  </div>
   <div class="gallery">
     <md-block>
 

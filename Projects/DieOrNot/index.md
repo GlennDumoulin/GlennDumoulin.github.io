@@ -64,6 +64,9 @@
 
     </md-block>
     <div class="icons">
+      <a href="https://github.com/GlennDumoulin/DieOrNot" target="_blank">
+        <img src="../Assets/Logos/github-mark-white.svg" alt="GitHub brand logo!" title="GitHub">
+      </a>
       <a href="https://delion-arken.itch.io/don" target="_blank">
         <img src="../../Assets/Logos/itchio-textless-white.svg" alt="itch.io brand logo!" title="itch.io">
       </a>
