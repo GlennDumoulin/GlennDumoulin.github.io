@@ -43,6 +43,10 @@ img {
 	border-radius: var(--soft-radius);
 }
 
+code {
+	background-color: var(--darker-grey) !important;
+}
+
 .content {
 	padding: 30px 0;
 	margin-bottom: 50px;
