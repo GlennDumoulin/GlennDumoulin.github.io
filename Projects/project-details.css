@@ -46,6 +46,10 @@
     width: 45%;
 }
 
+.details div.large {
+    width: 100%;
+}
+
 .content .platforms {
     text-align: center;
 }
