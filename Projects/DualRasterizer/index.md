@@ -26,7 +26,7 @@
   <div class="intro">
     <md-block>
 
-### _Place description here_
+### This project is a rasterizer that can switch between DirectX and a self-made CPU version. Both rasterizers use the same model data to have seamless transitions.
 
     </md-block>
     <img src="../../Assets/Projects/DualRasterizer/DualRasterizer_DirectX.png" alt="Dual Rasterizer snapshot!" title="Dual Rasterizer">
@@ -35,9 +35,44 @@
     <div>
       <md-block>
 
-## _Place details title here_
+## Hardware Features
 
-_Place details here_
+- Diffuse textures with support for opacity
+- Different sampler states:
+  - Linear
+  - Point
+  - Anisotropic
+
+      </md-block>
+    </div>
+    <div>
+      <md-block>
+
+## Software Features
+
+- Toggle shading mode:
+  - Combined (Specular, normal map and gloss included)
+  - Observed area only
+  - Diffuse only
+  - Specular only
+- Toggle normal map
+- Toggle depth buffer visualization
+- Toggle bounding boxes visualization
+
+      </md-block>
+    </div>
+    <div>
+      <md-block>
+
+## Shared Features
+
+- Load and render meshes with diffuse texture
+- Movable camera
+- Toggle rasterizer mode (DirectX <--> CPU)
+- Cycle cull mode:
+  - Back
+  - Front
+  - None
 
       </md-block>
     </div>

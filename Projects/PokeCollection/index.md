@@ -22,22 +22,35 @@
 </div>
 
 <div class="content">
-  <h1 class="project-title"><span>PokeCollection</span><span>Made in C#</span></h1>
+  <h1 class="project-title"><span>PokéCollection</span><span>Made in C#</span></h1>
   <div class="intro">
     <md-block>
 
-### _Place description here_
+### PokéCollection is a small "Tool" project made in XAML with WPF .NET. In this project you can view an overview of all Pokémon or details from the currently selected one. In the overview you can also filter the Pokémon based on type, generation and rarity and sort them based on id, name or evolution chain (ascending or descending).
+
+### All the data used in this project is loaded from <a href="https://pokeapi.co/" target="_blank">PokéAPI</a>
 
     </md-block>
-    <img src="../../Assets/Projects/PokeCollection/PokeCollection_1.png" alt="PokeCollection snapshot!" title="PokeCollection">
+    <img src="../../Assets/Projects/PokeCollection/PokeCollection_1.png" alt="PokéCollection snapshot!" title="PokéCollection">
   </div>
   <div class="details">
     <div>
       <md-block>
 
-## _Place details title here_
+## Goal of this project
 
-_Place details here_
+The purpose of this project was to get a basic introduction to using **XAML with WPF .NET** for **Tool Development**.
+
+      </md-block>
+    </div>
+    <div>
+      <md-block>
+
+## What I learned from this project
+
+- Using XAML with WPF .NET
+- Using MVVM (Model, View, ViewModel)
+- Working with API's
 
       </md-block>
     </div>
@@ -61,12 +74,12 @@ _Place details here_
 
     </md-block>
     <div class="images">
-      <img src="../../Assets/Projects/PokeCollection/PokeCollection_1.png" alt="PokeCollection snapshot!">
-      <img src="../../Assets/Projects/PokeCollection/PokeCollection_2.png" alt="PokeCollection snapshot!">
-      <img src="../../Assets/Projects/PokeCollection/PokeCollection_3.png" alt="PokeCollection snapshot!">
-      <img src="../../Assets/Projects/PokeCollection/PokeCollection_4.png" alt="PokeCollection snapshot!">
-      <img src="../../Assets/Projects/PokeCollection/PokeCollection_5.png" alt="PokeCollection snapshot!">
-      <img src="../../Assets/Projects/PokeCollection/PokeCollection_6.png" alt="PokeCollection snapshot!">
+      <img src="../../Assets/Projects/PokeCollection/PokeCollection_1.png" alt="PokéCollection snapshot!">
+      <img src="../../Assets/Projects/PokeCollection/PokeCollection_2.png" alt="PokéCollection snapshot!">
+      <img src="../../Assets/Projects/PokeCollection/PokeCollection_3.png" alt="PokéCollection snapshot!">
+      <img src="../../Assets/Projects/PokeCollection/PokeCollection_4.png" alt="PokéCollection snapshot!">
+      <img src="../../Assets/Projects/PokeCollection/PokeCollection_5.png" alt="PokéCollection snapshot!">
+      <img src="../../Assets/Projects/PokeCollection/PokeCollection_6.png" alt="PokéCollection snapshot!">
     </div>
   </div>
 </div>

@@ -62,6 +62,26 @@
 
     </md-block>
   </a>
+  <a href="./Projects/PokeCollection/" class="project">
+    <img src="./Assets/Projects/PokeCollection/PokeCollection_1.png" alt="PokéCollection snapshot!" title="PokéCollection">
+    <md-block>
+
+## PokéCollection
+
+#### Made in C#
+
+    </md-block>
+  </a>
+  <a href="./Projects/DualRasterizer/" class="project">
+    <img src="./Assets/Projects/DualRasterizer/DualRasterizer_DirectX.png" alt="Dual Rasterizer snapshot!" title="Dual Rasterizer">
+    <md-block>
+
+## Dual Rasterizer
+
+#### Made in C++
+
+    </md-block>
+  </a>
   <a href="./Projects/TheLostPresents/" class="project">
     <img src="./Assets/Projects/TheLostPresents/TLP_Screenshot01.png" alt="The Lost Presents game snapshot!" title="The Lost Presents">
     <md-block>
