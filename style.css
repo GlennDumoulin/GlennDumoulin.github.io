@@ -130,3 +130,8 @@ footer p {
 .title h3 {
 	margin: 0;
 }
+
+.title h4 {
+	width: 70%;
+	margin: 20px auto 0;
+}

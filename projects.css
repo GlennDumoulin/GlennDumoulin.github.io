@@ -1,6 +1,16 @@
 @import url(./variables.css);
 
-.content {
+.content h2 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.content h2:first-of-type {
+    margin-top: 0;
+}
+
+.content .game-projects,
+.content .other-projects {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -16,11 +26,16 @@
     background: var(--grey);
     overflow: hidden;
     transition: var(--default-transition);
+    position: relative;
 }
 
 .content .project:hover {
     border-color: var(--blue);
     text-decoration: none;
+}
+
+.content .game-projects .project {
+    width: 425px;
 }
 
 .project img {
@@ -40,6 +55,17 @@
 
 .project md-block > * {
     margin-top: 10px;
+}
+
+.project .tag {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 5px 15px;
+    background-color: var(--darker-grey);
+    border: 1px solid var(--blue);
+    border-radius: 0 0 0 var(--soft-radius);
+    border-width: 0 0 1px 1px;
 }
 
 @media (max-width: 576px) {

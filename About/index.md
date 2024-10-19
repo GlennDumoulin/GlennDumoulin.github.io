@@ -17,8 +17,11 @@
 
 # Glenn Dumoulin
 
+### Gameplay Programmer
+
+#### _"I want to become a gameplay programmer because of the variation the job offers and the close involvement with the content and features of the projects."_
+
   </md-block>
-  <h3>Gameplay Programmer</h3>
 </div>
 
 <div class="content">
