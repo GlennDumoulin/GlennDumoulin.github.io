@@ -135,3 +135,9 @@ footer p {
 	width: 70%;
 	margin: 20px auto 0;
 }
+
+@media (max-width: 576px) {
+    .title h4 {
+		width: 90%;
+	}
+}
