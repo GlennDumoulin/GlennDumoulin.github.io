@@ -93,7 +93,7 @@ For the "variable" keyword I went with giving the player two skills, one for the
 <footer>
   <md-block>
 
-©2024 by Glenn Dumoulin. Made with GitHub Pages
+©2025 by Glenn Dumoulin. Made with GitHub Pages
 
   </md-block>
 </footer>

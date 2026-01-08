@@ -51,9 +51,11 @@ Games have always been a part of my life and I feel blessed to even have the opp
 
 During my **high school** years I had no idea what kind of study I wanted to do, because nothing really interested me enough to want to delve deeper into it. So I studied **math and sciences**, not knowing how well it would turn out later.
 
-After high school I graduated with a **graduate degree in programming**. However, I wanted something _more interactive and responsive_ than being a **web/app developer**.
+After high school I graduated with a **graduate degree in programming**. However, I wanted to do something that is a bit more _more interactive and responsive_ than being a **web/app developer**.
 
-This brings us to the present. I am currently studying **Game Development in Digital Arts and Entertainment (DAE) at the Howest University of Applied Sciences**. I had seen this study before but had put aside because I felt like I _lacked the creativity_ to make it in this field. What I didn't think about at the time was of course that **Game Development** is not something you do alone. I enjoyed the programming itself from my previous study and I had a background in math and physics from high school, so I decided to give it a chance and I could not be happier that I did.
+That led me to study **Game Development in Digital Arts and Entertainment (DAE) at the Howest University of Applied Sciences**. Suprisingly both my prior educations actually introduced me already to some **key parts** of Game Development. I discovered and enjoyed the programming itself from my previous study and I had a background in math and physics from my high school studies.
+
+I am well aware of the concept of **lifelong learning** that is applied in these fields and I am very open to discovering and learning many more things in the future, but I do have to say "I hope the school part of my life is finally over!"
 
           </md-block>
         </div>
@@ -69,7 +71,7 @@ I like to spend my time doing things like:
 - Acting
 - Spending time with friends & family
 
-And I should also mention programming, but I would rather do some of the other things mentioned above and keep programming _mainly_ for professional use.
+And I will also mention programming, but I prefer keeping busy with my other hobbies and keep programming _mainly_ for professional use.
 
 I have also done a few other hobbies in the past such as:
 
@@ -110,7 +112,7 @@ Some of these I did longer than others but I have always enjoyed them for as lon
 <footer>
   <md-block>
 
-©2024 by Glenn Dumoulin. Made with GitHub Pages
+©2025 by Glenn Dumoulin. Made with GitHub Pages
 
   </md-block>
 </footer>

@@ -148,7 +148,7 @@ And lastly for the Time Class I decided to make use of a Singleton. Simply becau
 <footer>
   <md-block>
 
-©2024 by Glenn Dumoulin. Made with GitHub Pages
+©2025 by Glenn Dumoulin. Made with GitHub Pages
 
   </md-block>
 </footer>

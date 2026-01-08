@@ -90,7 +90,7 @@ The purpose of this project was to get a basic introduction to using **XAML with
 <footer>
   <md-block>
 
-©2024 by Glenn Dumoulin. Made with GitHub Pages
+©2025 by Glenn Dumoulin. Made with GitHub Pages
 
   </md-block>
 </footer>
