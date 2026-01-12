@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://glenndumoulin.github.io/sitemap.xml

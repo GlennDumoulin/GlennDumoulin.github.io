@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://glenndumoulin.github.io/</loc>
+  <lastmod>2026-01-08T19:04:53+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://glenndumoulin.github.io/About/</loc>
+  <lastmod>2026-01-08T19:04:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://glenndumoulin.github.io/Resume/</loc>
+  <lastmod>2026-01-08T19:04:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://glenndumoulin.github.io/Projects/DieOrNot/</loc>
+  <lastmod>2026-01-08T19:04:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://glenndumoulin.github.io/Projects/1302/</loc>
+  <lastmod>2026-01-08T19:04:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://glenndumoulin.github.io/Projects/HogRaider/</loc>
+  <lastmod>2026-01-08T19:04:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://glenndumoulin.github.io/Projects/TheLostPresents/</loc>
+  <lastmod>2026-01-08T19:04:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://glenndumoulin.github.io/Projects/SGAMEngine/</loc>
+  <lastmod>2026-01-08T19:04:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://glenndumoulin.github.io/Projects/PokeCollection/</loc>
+  <lastmod>2026-01-08T19:04:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://glenndumoulin.github.io/Projects/DualRasterizer/</loc>
+  <lastmod>2026-01-08T19:04:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://glenndumoulin.github.io/Assets/Resume_GlennDumoulin.pdf</loc>
+  <lastmod>2026-01-08T19:04:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
