@@ -25,6 +25,22 @@
 </div>
 
 <div class="content">
+  <h2>Work Experience</h2>
+  <div class="work-experience">
+    <div class="experience">
+      <md-block>
+
+## Spellware Studios
+
+#### Intern --> Junior Gameplay Programmer<br>_(Feb 2025 - Jan 2026)_
+
+I worked on multiple projects including <a href="https://store.steampowered.com/app/2275010/Ardent_Wilds/" target="_blank">Ardent Wilds</a> and some client projects, which haven't been released yet.
+
+      </md-block>
+	  <a href="https://spellwarestudios.com" target="_blank"><img src="./Assets/Logos/SpellwareLogo.png" alt="Spellware Studios logo!" title="Spellware Studios"></a>
+	</div>
+  </div>
+
   <h2>Game Projects</h2>
   <div class="game-projects">
     <a href="./Projects/DieOrNot/" class="project">
@@ -72,6 +88,7 @@
       <div class="tag">Solo Project | 2022</div>
     </a>
   </div>
+
   <h2>Other Projects</h2>
   <div class="other-projects">
     <a href="./Projects/SGAMEngine/" class="project">

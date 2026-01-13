@@ -9,6 +9,56 @@
     margin-top: 0;
 }
 
+/* Experience Styles */
+.work-experience .experience {
+	display: flex;
+	flex-direction: row-reverse;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	align-items: center;
+	padding: 10px;
+}
+
+.experience a img {
+	width: 400px;
+	border: 2px solid var(--darker-grey);
+	transition: var(--default-transition);
+}
+
+.experience a:hover img {
+	border-color: var(--blue);
+}
+
+.experience md-block {
+	width: 400px;
+}
+
+.experience h2 {
+	text-align: left;
+}
+
+.experience h4 em {
+	color: var(--light-grey);
+	text-size: 0.9em;
+}
+
+@media (max-width: 576px) {
+    .content .experience {
+        width: 90% !important;
+		margin: 0 auto;
+        padding: 10px 0;
+    }
+
+    .content .experience:first-of-type {
+        padding-top: 0 !important;
+    }
+
+    .content .experience:last-of-type {
+        padding-bottom: 0 !important;
+    }
+}
+
+/* Project Styles */
 .content .game-projects,
 .content .other-projects {
     display: flex;
