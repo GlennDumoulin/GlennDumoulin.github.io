@@ -21,6 +21,7 @@
 
 .experience a img {
 	width: 400px;
+	background-color: var(--darker-grey);
 	border: 2px solid var(--darker-grey);
 	transition: var(--default-transition);
 }
