@@ -41,6 +41,7 @@ a {
 img {
 	object-fit: cover;
 	border-radius: var(--soft-radius);
+	background-color: var(--darker-grey) !important;
 }
 
 code {
